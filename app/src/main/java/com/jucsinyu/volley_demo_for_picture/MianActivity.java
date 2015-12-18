@@ -7,13 +7,9 @@ import android.support.v4.util.LruCache;
 import android.widget.ImageView;
 
 import com.android.volley.RequestQueue;
-import com.android.volley.Response;
-import com.android.volley.VolleyError;
 import com.android.volley.toolbox.ImageLoader;
-import com.android.volley.toolbox.ImageRequest;
 import com.android.volley.toolbox.Volley;
 
-import java.net.MalformedURLException;
 import java.net.URL;
 
 /**
